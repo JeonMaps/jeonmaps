@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hi there, I'm Jeon!<br><br>I'm a passionate full-stack web developer with nearly 3 years of experience working with **MERN** stack. I enjoy building web applications, learning new technologies, and turning ideas into reality through clean, efficient code.<br><br>🔧 Currently diving deeper into **Next.js** and **Websockets**<br>💡 Always exploring new tools and frameworks  <br>📍 Based in the Philippines  <br>🚀 Let's build something awesome together!
+### 👋 Hi there, I'm Jeon!<br><br>I'm a passionate full-stack web developer with nearly 3 years of experience working with **MERN** stack. I enjoy building web applications, learning new technologies, and turning ideas into reality through clean, efficient code.<br><br>🔧 Currently diving deeper into **Next.js** and **Websockets**<br>💡 Always exploring new tools and frameworks  <br>📍 Based in the Philippines
 
 
 # 💻 Tech Stack:
